@@ -1,8 +1,6 @@
 # 🚀 Engr Kaleem – Full Stack Developer Portfolio
 ---
 
-![Portfolio Screenshot](./public/screenshot.png)
-
 ## ✨ Overview
 
 Welcome to the personal portfolio of **Engr Kaleem**, a passionate Software engineer undergraduate with a strong focus on **full-stack web development**. This portfolio is a reflection of my journey, skills, projects, and achievements — built with a modern tech stack and polished UI/UX.

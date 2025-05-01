@@ -3,7 +3,7 @@ export const Links = {
   linkedin: "https://www.linkedin.com/in/kaleemullahkhanreactjs/",
   email: "mailto:kaleemullahk989@gmail.com",
   resume:
-    "https://drive.google.com/file/d/1odW0zvXh1nwtTFedroqzTRJDw-FRKD4F/view?usp=drive_link",
+    "https://drive.google.com/file/d/100uaxcRF_R3qeRAjb75-SQi-opYAw_DT/view?usp=sharing",
   emailonly: "kaleemullahk989@@gmail.com",
   location: "Peshawar, Pakistan",
   phone: "+92 318 1932559",

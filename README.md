@@ -114,9 +114,9 @@ vercel deploy --prod
 
 I’m open to collaborations, opportunities, or just a chat!
 
-- 📧 [aathif@example.com](mailto:aathif@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/aathifzahir)
-- 💻 [GitHub](https://github.com/aathifzahir)
+- 📧 [aathif@example.com](mailto:kaleemullahk989@gmail.com.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaleemullahkhanreactjs/)
+- 💻 [GitHub](https://github.com/kaleem-uet)
 
 ---
 

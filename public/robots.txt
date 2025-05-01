@@ -4,3 +4,4 @@ Allow: /
 
 # Sitemap location
 Sitemap: https://aathifzahir.com/sitemap.xml
+Disallow:
